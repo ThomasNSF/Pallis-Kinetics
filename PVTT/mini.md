@@ -39,12 +39,25 @@ A status may be toggled on and off from the Status menu.  Setting a status will 
 
 <details>
 <summary>Preconfigured Statuses</summary>
-#### Preconfigured Statuses
-| Blinded | Charmed | Deafened |
-| Frightened | Grappled | Hidden |
-| Incapacitated | Invisible | Paralyzed |
-| Petrified | Poisoned | Prone |
-| Restrained | Stunned | Unconscious |
+*Preconfigured Statuses*
+
+| Status |
+| --- |
+| Blinded |
+| Charmed |
+| Deafened |
+| Frightened |
+| Grappled |
+| Hidden |
+| Incapacitated |
+| Invisible |
+| Paralyzed |
+| Petrified |
+| Poisoned |
+| Prone |
+| Restrained |
+| Stunned |
+| Unconscious |
 </details>
 
 ### Status Markers

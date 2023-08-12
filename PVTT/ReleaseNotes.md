@@ -1,6 +1,24 @@
 # Pallis Virtual Tabletop Release Notes
 
+## Version 1.2: 
+08/23
+### New Features
++ Assignable Gamemaster
+  - Gamemaster may be changed to be someone other than the owner of the table.
+  - Table may be placed into group mode allowing anyone in a group to assume the role of Gamemaster
+  - Sample object for remotely setting the Gamemaster.
++ Added a menu inteface to Fog.
++ Mini script enhancements
+  - Add glow effect
+  - Change skin
+
+### Bug Fixes
++ Remove from the mini's menu did not remove the mini.
+
+### Bug Fixes
+
 ## Version 1.1: Minor Enhancements and bug fixes
+05/23
 ### New Features
 + New table initialization
   - Logo shown durring initializiation.
